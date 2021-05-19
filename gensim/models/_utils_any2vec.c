@@ -815,7 +815,7 @@ static const char *__pyx_filename;
 
 
 static const char *__pyx_f[] = {
-  "_utils_any2vec.pyx",
+  "gensim/models/_utils_any2vec.pyx",
 };
 
 /*--- Type declarations ---*/
